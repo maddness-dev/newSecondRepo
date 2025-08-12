@@ -1,2 +1,1 @@
-This is file2.txt created locally
-New line in file2.txt
+This is some more weird stuff right here my man
